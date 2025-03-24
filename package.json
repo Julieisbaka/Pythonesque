@@ -1,0 +1,37 @@
+{
+    "name": "pythonesque",
+    "version": "0.0.1",
+    "description": "Your all in one Python extension.",
+    "author": {
+        "name": "JulieISBaka",
+        "url": "https://github.com/Julieisbaka/Julieisbaka",
+        "email": "casperschorr06@gmail.com"
+    },
+    "license": "MIT",
+    "categories": [
+        "Other",
+        "Programming Languages",
+        "Data Science"
+    ],
+    "repository": {
+        "url": "https://github.com/Julieisbaka/Pythonesque"
+    },
+    "readme": "README.md",
+    "bugs": {
+        "url": "https://github.com/Julieisbaka/Pythonesque/issues"
+    },
+    "capabilities": {
+        "virtualWorkspaces": true,
+        "untrustedWorkspaces": {
+            "supported": "limited",
+            "description": "Functionality within untrusted workspaces is only partially supported as some features can not be ran."
+        }
+    },
+    "keywords": [
+        "pythonesque",
+        "python"
+    ],
+    "devDependencies": {
+        "yeoman-generator": ""
+    }
+}
